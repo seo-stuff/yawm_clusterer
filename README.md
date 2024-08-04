@@ -15,7 +15,7 @@
 ## Шаг 2: Получение токена
 
 1. На следующей странице после создания приложения скопируйте `Client_ID`.
-2. Подставьте свой `Client_ID` в следующий URL: `https://oauth.yandex.ru/authorize?response_type=token&client_id={CLIENT_ID}`
+2. Подставьте свой `Client_ID` в следующий URL: `https://oauth.yandex.ru/authorize?response_type=token&client_id=CLIENT_ID`
 3. Перейдите по этому URL в вашем браузере, авторизуйтесь и получите уникальный токен.
 4. Скопируйте полученный токен. Он потребуется для настройки скрипта.
 
