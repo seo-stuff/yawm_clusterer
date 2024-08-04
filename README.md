@@ -23,7 +23,8 @@
 1. Вставьте ваш токен в скрипт. Найдите строку, где требуется указать токен, и замените её на ваш уникальный токен.
 2. Установите необходимые библиотеки, выполнив следующую команду:
 ```bash
-pip install requests pandas openpyxl pyfiglet```
+pip install requests pandas openpyxl pyfiglet
+```bash
 
 ## Шаг 4: Подготовка файла stoplist.txt
 1. Рядом со скриптом должен находиться файл stoplist.txt.
